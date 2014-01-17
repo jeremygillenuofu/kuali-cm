@@ -1,0 +1,2 @@
+serviceClass: org.kuali.student.core.organization.ui.client.service.OrgRpcService
+path: 037DBEB5E562AD1FBB11A539BFADE320.gwt.rpc

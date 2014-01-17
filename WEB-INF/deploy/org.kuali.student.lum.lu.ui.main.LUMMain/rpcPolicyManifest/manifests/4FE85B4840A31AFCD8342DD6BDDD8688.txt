@@ -1,0 +1,2 @@
+serviceClass: org.kuali.student.core.document.ui.client.service.DocumentRpcService
+path: BAB58DB0722A4A9369131304184968D0.gwt.rpc

@@ -1,0 +1,2 @@
+serviceClass: org.kuali.student.core.document.ui.client.service.UploadStatusRpcService
+path: 2E81D29B41165CA56D6CE7C3808649F8.gwt.rpc

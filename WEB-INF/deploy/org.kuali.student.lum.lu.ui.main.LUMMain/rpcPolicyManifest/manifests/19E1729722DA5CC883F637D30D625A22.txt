@@ -1,0 +1,2 @@
+serviceClass: org.kuali.student.common.ui.client.service.ServerPropertiesRpcService
+path: F4EA0BDE7B7A072764CEEAA8D3DD87E0.gwt.rpc

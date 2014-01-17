@@ -1,0 +1,2 @@
+serviceClass: org.kuali.student.lum.program.client.rpc.StatementRpcService
+path: ABC7A51BAB09732A2470B566E5316DE9.gwt.rpc

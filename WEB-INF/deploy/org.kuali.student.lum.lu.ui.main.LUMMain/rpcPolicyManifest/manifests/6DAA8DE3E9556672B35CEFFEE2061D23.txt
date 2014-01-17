@@ -1,0 +1,2 @@
+serviceClass: org.kuali.student.core.workflow.ui.client.service.WorkflowRpcService
+path: A2529192F6533F3E778C0623B2EADEFA.gwt.rpc

@@ -1,0 +1,2 @@
+serviceClass: org.kuali.student.common.ui.client.service.MessagesRpcService
+path: 9CBE4DE7DD0D3BDCCB2D9F5E1B901975.gwt.rpc

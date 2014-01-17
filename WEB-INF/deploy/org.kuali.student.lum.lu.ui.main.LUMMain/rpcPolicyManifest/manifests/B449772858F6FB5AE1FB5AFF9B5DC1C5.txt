@@ -1,0 +1,2 @@
+serviceClass: org.kuali.student.lum.common.client.widgets.CluSetManagementRpcService
+path: B406E39B812DAA993F048B524D921221.gwt.rpc

@@ -1,0 +1,28 @@
+# Module org.kuali.student.lum.lu.ui.main.LUMMain
+# RPC service class, partial path of RPC policy file
+org.kuali.student.lum.lu.ui.course.client.service.CreditCourseProposalRpcService, EA1658DFDE29A01DE8776E31EEA54CAA.gwt.rpc
+org.kuali.student.lum.program.client.rpc.StatementRpcService, ABC7A51BAB09732A2470B566E5316DE9.gwt.rpc
+org.kuali.student.common.ui.client.service.ServerPropertiesRpcService, F4EA0BDE7B7A072764CEEAA8D3DD87E0.gwt.rpc
+org.kuali.student.lum.lu.ui.dependency.client.service.DependencyAnalysisRpcService, D8DF1E52789C6FD7F8674B9B5B706361.gwt.rpc
+org.kuali.student.lum.common.client.lo.rpc.LoCategoryRpcService, 6EE05748577E415AB37F1F4E79A42EEA.gwt.rpc
+org.kuali.student.common.ui.client.service.MetadataRpcService, 91812A4EE470B8143C421E2DEB3FE864.gwt.rpc
+com.google.gwt.gen2.logging.handler.client.RemoteLogHandler.Service, CB6011C3122C25CB5209108BFFF191A0.gwt.rpc
+org.kuali.student.lum.lu.ui.course.client.service.CreditCourseRetireProposalRpcService, F289AF6E2A579442957A05196F23BA7F.gwt.rpc
+org.kuali.student.common.ui.client.service.GwtExportRpcService, 9EEAE189E409B495F4DDC9B25B8403E9.gwt.rpc
+org.kuali.student.common.ui.client.service.LogRpcService, B1808CE8F58FD809ABA425A70FA9FB45.gwt.rpc
+org.kuali.student.core.document.ui.client.service.DocumentRpcService, BAB58DB0722A4A9369131304184968D0.gwt.rpc
+org.kuali.student.core.comments.ui.client.service.CommentRpcService, C520149EEE36D5B4C7BC350FB310CE2D.gwt.rpc
+org.kuali.student.lum.program.client.rpc.CredentialProgramRpcService, C9E008EF1246DD28EF27D44AA834C22E.gwt.rpc
+org.kuali.student.core.workflow.ui.client.service.WorkflowRpcService, A2529192F6533F3E778C0623B2EADEFA.gwt.rpc
+org.kuali.student.common.ui.client.service.SecurityRpcService, 9509131F618790C2E81D1739D6743235.gwt.rpc
+org.kuali.student.lum.program.client.rpc.MajorDisciplineProposalRpcService, D431D8B1EF919A7323C8E96BCF2B30E7.gwt.rpc
+org.kuali.student.core.document.ui.client.service.UploadStatusRpcService, 2E81D29B41165CA56D6CE7C3808649F8.gwt.rpc
+org.kuali.student.lum.program.client.rpc.MajorDisciplineRpcService, F867E5C2A4221FDCB019BD7975C811A0.gwt.rpc
+org.kuali.student.lum.lu.ui.course.client.service.CourseRpcService, D209F04873B3C63A0D35DB5006D17EE2.gwt.rpc
+org.kuali.student.core.proposal.ui.client.service.ProposalRpcService, 5163A5427A75B2D7094860634E74B176.gwt.rpc
+org.kuali.student.common.ui.client.service.SearchRpcService, 1B96D688C516670F35919EED9331AFD6.gwt.rpc
+org.kuali.student.lum.program.client.rpc.CoreProgramRpcService, 40400F7C33689D7836D75BE797824C66.gwt.rpc
+org.kuali.student.lum.common.client.widgets.CluSetManagementRpcService, B406E39B812DAA993F048B524D921221.gwt.rpc
+org.kuali.student.lum.lu.ui.course.client.service.LuRpcService, 6D8412B0C71F545F81E305739B42DA81.gwt.rpc
+org.kuali.student.core.organization.ui.client.service.OrgRpcService, 037DBEB5E562AD1FBB11A539BFADE320.gwt.rpc
+org.kuali.student.common.ui.client.service.MessagesRpcService, 9CBE4DE7DD0D3BDCCB2D9F5E1B901975.gwt.rpc

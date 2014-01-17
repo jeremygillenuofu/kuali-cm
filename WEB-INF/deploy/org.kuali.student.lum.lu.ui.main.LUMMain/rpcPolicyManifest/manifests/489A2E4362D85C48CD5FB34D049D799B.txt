@@ -1,0 +1,2 @@
+serviceClass: org.kuali.student.common.ui.client.service.LogRpcService
+path: B1808CE8F58FD809ABA425A70FA9FB45.gwt.rpc

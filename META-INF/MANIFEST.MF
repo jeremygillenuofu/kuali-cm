@@ -1,0 +1,22 @@
+Manifest-Version: 1.0
+SVN-Path: enrollment/ks-deployments/tags/ks-deployments-2.0.2-cm/ks-we
+ b/ks-with-rice-bundled
+Maven-Version: 3.0.4
+Built-By: root
+Bundle-Name: KS with Rice Bundled
+Created-By: Apache Maven 3.0.4
+SVN-Repository: https://svn.kuali.org/repos/student
+Bundle-Vendor: The Kuali Foundation
+SVN-Revision: 58552
+Bundle-BuildNumber: 12
+Build-Jdk: 1.6.0_43
+Bundle-Version: 2.0.2-cm
+SVN-URL: https://svn.kuali.org/repos/student/enrollment/ks-deployments
+ /tags/ks-deployments-2.0.2-cm/ks-web/ks-with-rice-bundled
+Bundle-License: http://maven.kuali.org/external/org/opensource/ecl/2.0
+ /ecl-2.0.txt
+Bundle-SymbolicName: org.kuali.student.web.ks-with-rice-bundled
+Bundle-DocURL: http://www.kuali.org/
+Bundle-Timestamp: 2013-10-22 14:59 UTC
+Archiver-Version: Plexus Archiver
+

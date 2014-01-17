@@ -1,0 +1,2 @@
+serviceClass: org.kuali.student.lum.lu.ui.dependency.client.service.DependencyAnalysisRpcService
+path: D8DF1E52789C6FD7F8674B9B5B706361.gwt.rpc

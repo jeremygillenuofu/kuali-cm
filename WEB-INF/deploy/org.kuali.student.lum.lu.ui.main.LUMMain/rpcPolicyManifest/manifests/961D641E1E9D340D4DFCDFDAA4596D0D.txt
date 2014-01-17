@@ -1,0 +1,2 @@
+serviceClass: org.kuali.student.lum.program.client.rpc.MajorDisciplineRpcService
+path: F867E5C2A4221FDCB019BD7975C811A0.gwt.rpc

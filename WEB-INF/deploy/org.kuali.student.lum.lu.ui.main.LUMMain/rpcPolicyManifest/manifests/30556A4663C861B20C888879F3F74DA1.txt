@@ -1,0 +1,2 @@
+serviceClass: org.kuali.student.lum.common.client.lo.rpc.LoCategoryRpcService
+path: 6EE05748577E415AB37F1F4E79A42EEA.gwt.rpc

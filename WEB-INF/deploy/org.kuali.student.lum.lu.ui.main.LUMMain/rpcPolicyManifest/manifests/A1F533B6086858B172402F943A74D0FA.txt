@@ -1,0 +1,2 @@
+serviceClass: org.kuali.student.core.proposal.ui.client.service.ProposalRpcService
+path: 5163A5427A75B2D7094860634E74B176.gwt.rpc

@@ -1,0 +1,2 @@
+serviceClass: org.kuali.student.lum.program.client.rpc.MajorDisciplineProposalRpcService
+path: D431D8B1EF919A7323C8E96BCF2B30E7.gwt.rpc

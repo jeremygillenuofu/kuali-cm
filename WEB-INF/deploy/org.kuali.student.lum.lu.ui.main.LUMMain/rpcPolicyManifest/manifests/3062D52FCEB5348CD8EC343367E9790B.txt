@@ -1,0 +1,2 @@
+serviceClass: org.kuali.student.common.ui.client.service.MetadataRpcService
+path: 91812A4EE470B8143C421E2DEB3FE864.gwt.rpc

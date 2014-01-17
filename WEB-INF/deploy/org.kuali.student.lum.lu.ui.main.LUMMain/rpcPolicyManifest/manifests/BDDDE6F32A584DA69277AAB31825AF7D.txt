@@ -1,0 +1,2 @@
+serviceClass: org.kuali.student.lum.lu.ui.course.client.service.LuRpcService
+path: 6D8412B0C71F545F81E305739B42DA81.gwt.rpc

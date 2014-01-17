@@ -1,0 +1,2 @@
+serviceClass: org.kuali.student.lum.lu.ui.course.client.service.CreditCourseProposalRpcService
+path: EA1658DFDE29A01DE8776E31EEA54CAA.gwt.rpc

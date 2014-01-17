@@ -1,0 +1,2 @@
+serviceClass: org.kuali.student.common.ui.client.service.SearchRpcService
+path: 1B96D688C516670F35919EED9331AFD6.gwt.rpc

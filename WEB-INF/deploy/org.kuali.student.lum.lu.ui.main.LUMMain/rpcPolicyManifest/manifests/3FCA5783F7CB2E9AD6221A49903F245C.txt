@@ -1,0 +1,2 @@
+serviceClass: org.kuali.student.common.ui.client.service.GwtExportRpcService
+path: 9EEAE189E409B495F4DDC9B25B8403E9.gwt.rpc

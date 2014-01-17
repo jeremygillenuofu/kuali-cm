@@ -1,0 +1,2 @@
+serviceClass: org.kuali.student.lum.program.client.rpc.CredentialProgramRpcService
+path: C9E008EF1246DD28EF27D44AA834C22E.gwt.rpc

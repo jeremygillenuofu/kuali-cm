@@ -1,0 +1,2 @@
+serviceClass: org.kuali.student.common.ui.client.service.SecurityRpcService
+path: 9509131F618790C2E81D1739D6743235.gwt.rpc
